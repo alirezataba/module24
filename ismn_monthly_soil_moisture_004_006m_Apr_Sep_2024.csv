@@ -1,0 +1,7 @@
+network,station,sensor,lat,lon,coordinate_source,depth_min_m,depth_max_m,month,ismn_sm_mean,ismn_sm_std,n_observations
+SCAN,FortReno#1,Stevens-Hydraprobe-Digital_4_1_soil_moisture_0.050800_0.050800,35.55,-98.01667,manual_from_stm_header,0.04,0.06,4,0.22058472222222222,0.057306350842925485,720
+SCAN,FortReno#1,Stevens-Hydraprobe-Digital_4_1_soil_moisture_0.050800_0.050800,35.55,-98.01667,manual_from_stm_header,0.04,0.06,5,0.2548481182795699,0.05233947884964541,744
+SCAN,FortReno#1,Stevens-Hydraprobe-Digital_4_1_soil_moisture_0.050800_0.050800,35.55,-98.01667,manual_from_stm_header,0.04,0.06,6,0.1505625,0.06665892246107626,720
+SCAN,FortReno#1,Stevens-Hydraprobe-Digital_4_1_soil_moisture_0.050800_0.050800,35.55,-98.01667,manual_from_stm_header,0.04,0.06,7,0.20849787234042555,0.07338370366925229,705
+SCAN,FortReno#1,Stevens-Hydraprobe-Digital_4_1_soil_moisture_0.050800_0.050800,35.55,-98.01667,manual_from_stm_header,0.04,0.06,8,0.10635532994923858,0.07217874916977278,591
+SCAN,FortReno#1,Stevens-Hydraprobe-Digital_4_1_soil_moisture_0.050800_0.050800,35.55,-98.01667,manual_from_stm_header,0.04,0.06,9,0.12862924281984334,0.030409480837690177,383
