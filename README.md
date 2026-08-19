@@ -2,7 +2,7 @@
 
 ## Project title
 
-**Spatial Downscaling of SMAP Soil Moisture Using Multi-Modal Machine Learning**
+**Spatial Downscaling of SMAP Soil Moisture Using Machine Learning and Environmental Predictors**
 
 ## Purpose of the notebook
 
